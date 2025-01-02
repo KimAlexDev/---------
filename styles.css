@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.catDesc {
+  border: 5px solid red;
+  border-radius: 10px;
+  margin: 50px auto;
+  width: 600px;
+  height: 400px;
+}
+
+.catDesc h1 {
+  color: red;
+  text-align: center;
+  font-size: 50px;
+}
+
+.catDesc p {
+  color: green;
+  text-align: center;
+  font-size: 30px;
+}
